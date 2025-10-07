@@ -86,7 +86,7 @@ body {
 
 /** Hero section*/
 header {
-    background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/images/images01.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("./images/images01.jpg");
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
