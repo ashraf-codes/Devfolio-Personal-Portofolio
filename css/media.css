@@ -1,0 +1,29 @@
+@media (max-width:550px){
+.about .box-shadow .container .row .skills-info .pic-info{
+    flex-direction: column;
+    justify-content: flex-start;
+    
+}
+.about .box-shadow .container .row .skills-info .pic-info .pic{
+    width: 70%;
+}
+.about .box-shadow .container .row .skills-info .pic-info .info .ps-5{
+    padding-left: 0px !important;
+}
+}
+@media (max-width:768px){
+header .container .heading h1{
+    font-size: 60px;
+}
+header .container .heading p{
+    font-size: 30px;
+}
+section .container .row .card{
+    margin-inline: auto;
+}
+}
+@media (max-width:992px){
+    .blog .container .row .card{
+         margin-inline: auto;
+    }
+}
